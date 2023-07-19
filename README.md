@@ -1,6 +1,8 @@
 # Projeto Criando Artigos Técnicos com ChatGPT e Lexica.art
 O objetivo do projeto é desenvolver um artigo técnico que possua um layout atrativo e de fácil leitura.
 
+📖 [Leitura do Artigo](https://web.dio.me/articles/dicas-para-escrever-codigo-python-como-um-programador-senior?back=%2Fhome&page=1&order=oldest) - Dicas para Escrever Código Python como um Programador Sênior
+
 ## 💻 Tecnologias utilizadas no projeto:
  - [ChatGPT](https://chat.openai.com/) - gerar título e base do conteúdo
  - [Lexica](https://lexica.art/) - gerar imagens para arte
@@ -21,3 +23,7 @@ Lexica:
 | robo teclado | keyboard robot |
 | robo amarelo |robo maintenance code|
 | bloco colorido | block code |
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioalessandropereira/)
+[![GitHub](https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavioalessandropereira)
+
