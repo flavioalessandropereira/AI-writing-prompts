@@ -13,3 +13,11 @@ O objetivo do projeto é desenvolver um artigo técnico que possua um layout atr
 |----------|----------|
 | Título | crie 10 sugestões em healine para nomes de artigos tendo como intuito as boas praticas com python |
 | Assunto | Comporta-se como um escritor de artigos tech backend como programador Senior em Python e escreva o artigo atendendo as regras abaixo {REGRAS} > no máximo 3 linhas por blocos de explicação > explique de uma maneira informal, como se eu fosse uma criança de 10 anos > explicar as regras da utilizacao snakecase , camelcase e uppercase |
+
+Lexica:
+| Imagem | prompt |
+|----------|----------|
+| cobra | python logo |
+| robo teclado | keyboard robot |
+| robo amarelo |robo maintenance code|
+| bloco colorido | block code |
