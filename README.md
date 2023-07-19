@@ -25,8 +25,6 @@ Lexica:
 | bloco colorido | block code |
 
 ## 👨‍💻 Sobre
-(https://avatars.githubusercontent.com/u/70247557?s=96&v=4)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioalessandropereira/)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavioalessandropereira)
 
