@@ -24,6 +24,9 @@ Lexica:
 | robo amarelo |robo maintenance code|
 | bloco colorido | block code |
 
+## 👨‍💻 Me
+<img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/70247557?s=400&amp;u=07a40eb8e51041c7ee14fc3ab22aea59d77b4b66&amp;v=4" width="200" height="200" alt="@flavioalessandropereira">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioalessandropereira/)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavioalessandropereira)
 
